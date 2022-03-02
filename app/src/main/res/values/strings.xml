@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Remind You</string>
+    <string name="Time_rn">07.46</string>
+    <string name="date_rn">Wed, 27th April 2022</string>
+    <string name="newAlarm">Add A New Alarm</string>
+    <string name="timer">Change Sleep Schedule</string>
+    <string name="bed">ITS BED TIME</string>
+    <string name="wake">Wakey Wakey</string>
+    <string name="sleep_wake_up">Sleep | Wake up</string>
+    <string name="other_alarms">Other Alarms</string>
+    <string name="plus">plus</string>
+    <string name="time_other">20.15</string>
+    <string name="eat">Please Eat.</string>
+    <string name="sleep">Sleep</string>
+    <string name="wake_up">Wake Up</string>
+    <string name="set_other_alarm">Set Other Alarm</string>
+    <string name="its_bed_time">ITS BED TIME</string>
+    <string name="_00_00">Time</string>
+    <string name="change">Change</string>
+    <string name="add_note">Add Note</string>
+    <string name="wakey_wakey">Wakey Wakey</string>
+    <string name="edit">edit</string>
+    <string name="date_bday">Date</string>
+    <string name="bash">Name</string>
+    <string name="add">Add Alarm</string>
+    <string name="cancel">Cancel</string>
+</resources>
